@@ -1,0 +1,714 @@
+digraph {
+	p151 [fillcolor=white pos="-132.776468,-149.567408" style=filled tooltip=p151]
+	p304 [fillcolor=white style=filled tooltip=p304]
+	p237 [fillcolor=gray pos="199.930308,-5.279374" style=filled tooltip=p237]
+	p118 [fillcolor=green pos="-199.930308,5.279374" style=filled tooltip=p118]
+	p260 [fillcolor=white style=filled tooltip="p260(Atlantic speedup transfer start)"]
+	p197 [fillcolor=white pos="93.842509,-176.617053" style=filled tooltip=p197]
+	p295 [fillcolor=gray style=filled tooltip=p295]
+	p134 [fillcolor=white pos="-184.522330,-77.146028" style=filled tooltip=p134]
+	p240 [fillcolor=white style=filled tooltip=p240]
+	p258 [fillcolor=white style=filled tooltip=p258]
+	p298 [fillcolor=white style=filled tooltip=p298]
+	p44 [fillcolor=white pos="79.574925,183.487959" style=filled tooltip=p44]
+	p235 [fillcolor=white pos="199.373067,-15.823408" style=filled tooltip=p235]
+	p65 [fillcolor=white pos="-28.937998,197.895407" style=filled tooltip=p65]
+	p18 [fillcolor=yellow pos="177.840349,91.503062" style=filled tooltip=p18]
+	p122 [fillcolor=white pos="-199.373067,-15.823408" style=filled tooltip=p122]
+	p164 [fillcolor=white pos="-74.703689,-185.524551" style=filled tooltip=p164]
+	p238 [fillcolor=white style=filled tooltip="p238(South America sea path)"]
+	p117 [fillcolor=yellow pos="-199.721282,10.555069" style=filled tooltip=p117]
+	p162 [fillcolor=yellow pos="-84.390705,-181.323493" style=filled tooltip=p162]
+	p19 [fillcolor=red pos="175.362984,96.165606" style=filled tooltip=p19]
+	p79 [fillcolor=green pos="-98.471947,174.078361" style=filled tooltip="p79(Antarctida fork)"]
+	p68 [fillcolor=white pos="-44.504187,194.985582" style=filled tooltip=p68]
+	p214 [fillcolor=white pos="161.180447,-118.409728" style=filled tooltip=p214]
+	p250 [fillcolor=white style=filled tooltip=p250]
+	p281 [fillcolor=white style=filled tooltip=p281]
+	p254 [fillcolor=white style=filled tooltip=p254]
+	p231 [fillcolor=white pos="196.594620,-36.749904" style=filled tooltip=p231]
+	p128 [fillcolor=white pos="-194.381159,-47.074039" style=filled tooltip="p128(Tiger transition start)"]
+	p190 [fillcolor=white pos="59.791364,-190.853328" style=filled tooltip=p190]
+	p125 [fillcolor=yellow pos="-197.496197,-31.547615" style=filled tooltip="p125(Bangalor tiger transition end)"]
+	p200 [fillcolor=white pos="107.521763,-168.638876" style=filled tooltip=p200]
+	p76 [fillcolor=gray pos="-84.390705,181.323493" style=filled tooltip=p76]
+	p14 [fillcolor=white pos="186.494446,72.248333" style=filled tooltip="p14(Eskimo Transition end)"]
+	p176 [fillcolor=yellow pos="-13.190388,-199.564560" style=filled tooltip="p176(Australia bypass transition end)"]
+	p216 [fillcolor=white pos="167.204942,-109.738359" style=filled tooltip=p216]
+	p227 [fillcolor=white pos="191.625922,-57.266970" style=filled tooltip=p227]
+	p48 [fillcolor=white pos="59.791364,190.853328" style=filled tooltip="p48(Columbia transition)"]
+	p42 [fillcolor=yellow pos="89.147671,179.032658" style=filled tooltip="p42(Mexico fork)"]
+	p330 [fillcolor=white style=filled tooltip=p330]
+	p232 [fillcolor=white pos="197.496197,-31.547615" style=filled tooltip=p232]
+	p283 [fillcolor=white style=filled tooltip=p283]
+	p28 [fillcolor=green pos="147.801783,134.739129" style=filled tooltip=p28]
+	p108 [fillcolor=gray pos="-191.625922,57.266970" style=filled tooltip=p108]
+	p335 [fillcolor=white style=filled tooltip=p335]
+	p64 [fillcolor=white pos="-23.704095,198.590322" style=filled tooltip=p64]
+	p305 [fillcolor=white style=filled tooltip=p305]
+	p27 [fillcolor=white pos="151.306972,130.790673" style=filled tooltip=p27]
+	p321 [fillcolor=white style=filled tooltip="p321(Antarctida back transfer 2 end)"]
+	p147 [fillcolor=white pos="-147.801783,-134.739129" style=filled tooltip=p147]
+	p120 [fillcolor=yellow pos="-199.930308,-5.279374" style=filled tooltip=p120]
+	p307 [fillcolor=white style=filled tooltip="p307(Antarctida path)"]
+	p177 [fillcolor=white pos="-7.917912,-199.843205" style=filled tooltip=p177]
+	p2 [fillcolor=white pos="199.721282,10.555069" style=filled tooltip=p2]
+	p170 [fillcolor=white pos="-44.504187,-194.985582" style=filled tooltip=p170]
+	p266 [fillcolor=white style=filled tooltip=p266]
+	p99 [fillcolor=white pos="-172.763407,100.761130" style=filled tooltip=p99]
+	p137 [fillcolor=white pos="-177.840349,-91.503062" style=filled tooltip="p137(Samurai transition end)"]
+	p29 [fillcolor=white pos="144.193589,138.593683" style=filled tooltip=p29]
+	p324 [fillcolor=white style=filled tooltip=p324]
+	p223 [fillcolor=yellow pos="184.522330,-77.146028" style=filled tooltip=p223]
+	p256 [fillcolor=white style=filled tooltip="p256(Mammoth transfer end)"]
+	p322 [fillcolor=white style=filled tooltip=p322]
+	p143 [fillcolor=yellow pos="-161.180447,-118.409728" style=filled tooltip="p143(Australia fork)"]
+	p3 [fillcolor=white pos="199.373067,15.823408" style=filled tooltip=p3]
+	p96 [fillcolor=white pos="-164.249928,114.113807" style=filled tooltip=p96]
+	p141 [fillcolor=white pos="-167.204942,-109.738359" style=filled tooltip=p141]
+	p142 [fillcolor=white pos="-164.249928,-114.113807" style=filled tooltip=p142]
+	p333 [fillcolor=white style=filled tooltip=p333]
+	p41 [fillcolor=white pos="93.842509,176.617053" style=filled tooltip=p41]
+	p145 [fillcolor=white pos="-154.706713,-126.751067" style=filled tooltip=p145]
+	p339 [fillcolor=white style=filled tooltip=p339]
+	p155 [fillcolor=white pos="-116.271897,-162.729364" style=filled tooltip=p155]
+	p206 [fillcolor=white pos="132.776468,-149.567408" style=filled tooltip=p206]
+	p310 [fillcolor=white style=filled tooltip=p310]
+	p62 [fillcolor=white pos="-13.190388,199.564560" style=filled tooltip=p62]
+	p8 [fillcolor=white pos="195.556032,41.926581" style=filled tooltip=p8]
+	p114 [fillcolor=white pos="-198.260137,26.323340" style=filled tooltip=p114]
+	p204 [fillcolor=white pos="124.697960,-156.366296" style=filled tooltip=p204]
+	p287 [fillcolor=white style=filled tooltip="p287(Australia continental path)"]
+	p110 [fillcolor=gray pos="-194.381159,47.074039" style=filled tooltip=p110]
+	p217 [fillcolor=yellow pos="170.043427,-105.286433" style=filled tooltip=p217]
+	p116 [fillcolor=white pos="-199.373067,15.823408" style=filled tooltip=p116]
+	p341 [fillcolor=white style=filled tooltip=p341]
+	p306 [fillcolor=white style=filled tooltip=p306]
+	p168 [fillcolor=white pos="-54.732598,-192.365129" style=filled tooltip=p168]
+	p315 [fillcolor=gray style=filled tooltip=p315]
+	p50 [fillcolor=white pos="49.635688,193.742867" style=filled tooltip=p50]
+	p33 [fillcolor=yellow pos="128.782089,153.020173" style=filled tooltip=p33]
+	p221 [fillcolor=white pos="180.193774,-86.776748" style=filled tooltip=p221]
+	p212 [fillcolor=white pos="154.706713,-126.751067" style=filled tooltip=p212]
+	p87 [fillcolor=white pos="-132.776468,149.567408" style=filled tooltip=p87]
+	p299 [fillcolor=gray style=filled tooltip=p299]
+	p32 [fillcolor=white pos="132.776468,149.567408" style=filled tooltip=p32]
+	p97 [fillcolor=gray pos="-167.204942,109.738359" style=filled tooltip=p97]
+	p46 [fillcolor=green pos="69.780390,187.431847" style=filled tooltip=p46]
+	p25 [fillcolor=gray pos="157.998636,122.623127" style=filled tooltip=p25]
+	p146 [fillcolor=white pos="-151.306972,-130.790673" style=filled tooltip=p146]
+	p201 [fillcolor=white pos="111.935835,-165.741874" style=filled tooltip=p201]
+	p319 [fillcolor=gray style=filled tooltip=p319]
+	p9 [fillcolor=gray pos="194.381159,47.074039" style=filled tooltip=p9]
+	p156 [fillcolor=white pos="-111.935835,-165.741874" style=filled tooltip=p156]
+	p243 [fillcolor=white style=filled tooltip=p243]
+	p292 [fillcolor=gray style=filled tooltip=p292]
+	p39 [fillcolor=white pos="103.032757,171.418351" style=filled tooltip=p39]
+	p236 [fillcolor=red pos="199.721282,-10.555069" style=filled tooltip=p236]
+	p262 [fillcolor=white style=filled tooltip=p262]
+	p261 [fillcolor=white style=filled tooltip=p261]
+	p207 [fillcolor=gray pos="136.678313,-146.010407" style=filled tooltip=p207]
+	p133 [fillcolor=gray pos="-186.494446,-72.248333" style=filled tooltip=p133]
+	p173 [fillcolor=white pos="-28.937998,-197.895407" style=filled tooltip=p173]
+	p157 [fillcolor=white pos="-107.521763,-168.638876" style=filled tooltip="p157(Australia sea bypass transition end)"]
+	p271 [fillcolor=white style=filled tooltip=p271]
+	p274 [fillcolor=white style=filled tooltip=p274]
+	p24 [fillcolor=white pos="161.180447,118.409728" style=filled tooltip=p24]
+	p264 [fillcolor=gray style=filled tooltip=p264]
+	p93 [fillcolor=white pos="-154.706713,126.751067" style=filled tooltip=p93]
+	p35 [fillcolor=gray pos="120.526927,159.603445" style=filled tooltip=p35]
+	p184 [fillcolor=white pos="28.937998,-197.895407" style=filled tooltip=p184]
+	p63 [fillcolor=white pos="-18.453672,199.146835" style=filled tooltip=p63]
+	p98 [fillcolor=white pos="-170.043427,105.286433" style=filled tooltip=p98]
+	p71 [fillcolor=white pos="-59.791364,190.853328" style=filled tooltip=p71]
+	p115 [fillcolor=white pos="-198.885905,21.080720" style=filled tooltip=p115]
+	p277 [fillcolor=white style=filled tooltip=p277]
+	p224 [fillcolor=white pos="186.494446,-72.248333" style=filled tooltip=p224]
+	p127 [fillcolor=white pos="-195.556032,-41.926581" style=filled tooltip=p127]
+	p74 [fillcolor=gray pos="-74.703689,185.524551" style=filled tooltip=p74]
+	p40 [fillcolor=white pos="98.471947,174.078361" style=filled tooltip=p40]
+	p309 [fillcolor=white style=filled tooltip=p309]
+	p82 [fillcolor=white pos="-111.935835,165.741874" style=filled tooltip=p82]
+	p343 [fillcolor=white style=filled tooltip="p343(Antarctida pirates mega transfer start)"]
+	p318 [fillcolor=gray style=filled tooltip=p318]
+	p275 [fillcolor=white style=filled tooltip=p275]
+	p327 [fillcolor=white style=filled tooltip=p327]
+	p30 [fillcolor=white pos="140.484904,142.351648" style=filled tooltip=p30]
+	p245 [fillcolor=white style=filled tooltip=p245]
+	p225 [fillcolor=white pos="188.336590,-67.300288" style=filled tooltip=p225]
+	p251 [fillcolor=white style=filled tooltip=p251]
+	p195 [fillcolor=white pos="84.390705,-181.323493" style=filled tooltip=p195]
+	p334 [fillcolor=white style=filled tooltip="p334(Antarctida back transfer 2 start)"]
+	p252 [fillcolor=white style=filled tooltip=p252]
+	p38 [fillcolor=white pos="107.521763,168.638876" style=filled tooltip=p38]
+	p104 [fillcolor=white pos="-184.522330,77.146028" style=filled tooltip=p104]
+	p83 [fillcolor=white pos="-116.271897,162.729364" style=filled tooltip="p83(Antarctida transition start)"]
+	p194 [fillcolor=white pos="79.574925,-183.487959" style=filled tooltip=p194]
+	p296 [fillcolor=gray style=filled tooltip=p296]
+	p340 [fillcolor=white style=filled tooltip=p340]
+	p208 [fillcolor=white pos="140.484904,-142.351648" style=filled tooltip=p208]
+	p320 [fillcolor=white style=filled tooltip="p320(Antarctida back transfer 1 start)"]
+	p121 [fillcolor=white pos="-199.721282,-10.555069" style=filled tooltip=p121]
+	p219 [fillcolor=white pos="175.362984,-96.165606" style=filled tooltip=p219]
+	p301 [fillcolor=gray style=filled tooltip=p301]
+	p329 [fillcolor=gray style=filled tooltip=p329]
+	p61 [fillcolor=white pos="-7.917912,199.843205" style=filled tooltip=p61]
+	p196 [fillcolor=white pos="89.147671,-179.032658" style=filled tooltip=p196]
+	p313 [fillcolor=gray style=filled tooltip=p313]
+	p242 [fillcolor=white style=filled tooltip=p242]
+	p56 [fillcolor=white pos="18.453672,199.146835" style=filled tooltip=p56]
+	p21 [fillcolor=white pos="170.043427,105.286433" style=filled tooltip=p21]
+	p150 [fillcolor=white pos="-136.678313,-146.010407" style=filled tooltip="p150(Australia sea bypass transition start)"]
+	p267 [fillcolor=white style=filled tooltip=p267]
+	p78 [fillcolor=gray pos="-93.842509,176.617053" style=filled tooltip=p78]
+	p289 [fillcolor=white style=filled tooltip=p289]
+	p308 [fillcolor=white style=filled tooltip=p308]
+	p43 [fillcolor=white pos="84.390705,181.323493" style=filled tooltip="p43(South America continental pass)"]
+	p85 [fillcolor=white pos="-124.697960,156.366296" style=filled tooltip=p85]
+	p285 [fillcolor=white style=filled tooltip=p285]
+	p159 [fillcolor=white pos="-98.471947,-174.078361" style=filled tooltip="p159(Antarctida path joint)"]
+	p272 [fillcolor=white style=filled tooltip=p272]
+	p51 [fillcolor=white pos="44.504187,194.985582" style=filled tooltip=p51]
+	p179 [fillcolor=white pos="2.639917,-199.982576" style=filled tooltip=p179]
+	p70 [fillcolor=white pos="-54.732598,192.365129" style=filled tooltip="p70(Antarctida transition end)"]
+	p263 [fillcolor=white style=filled tooltip=p263]
+	p163 [fillcolor=white pos="-79.574925,-183.487959" style=filled tooltip=p163]
+	p300 [fillcolor=white style=filled tooltip=p300]
+	p278 [fillcolor=white style=filled tooltip=p278]
+	p7 [fillcolor=white pos="196.594620,36.749904" style=filled tooltip=p7]
+	p100 [fillcolor=white pos="-175.362984,96.165606" style=filled tooltip=p100]
+	p303 [fillcolor=gray style=filled tooltip=p303]
+	p13 [fillcolor=white pos="188.336590,67.300288" style=filled tooltip=p13]
+	p259 [fillcolor=white style=filled tooltip=p259]
+	p186 [fillcolor=white pos="39.341670,-196.092409" style=filled tooltip=p186]
+	p234 [fillcolor=yellow pos="198.885905,-21.080720" style=filled tooltip=p234]
+	p229 [fillcolor=white pos="194.381159,-47.074039" style=filled tooltip=p229]
+	p185 [fillcolor=white pos="34.151734,-197.062576" style=filled tooltip=p185]
+	p249 [fillcolor=white style=filled tooltip=p249]
+	p280 [fillcolor=white style=filled tooltip=p280]
+	p109 [fillcolor=gray pos="-193.070818,52.188690" style=filled tooltip=p109]
+	p101 [fillcolor=white pos="-177.840349,91.503062" style=filled tooltip=p101]
+	p140 [fillcolor=white pos="-170.043427,-105.286433" style=filled tooltip=p140]
+	p169 [fillcolor=white pos="-49.635688,-193.742867" style=filled tooltip=p169]
+	p239 [fillcolor=white style=filled tooltip=p239]
+	p69 [fillcolor=white pos="-49.635688,193.742867" style=filled tooltip=p69]
+	p302 [fillcolor=white style=filled tooltip=p302]
+	p92 [fillcolor=white pos="-151.306972,130.790673" style=filled tooltip="p92(Antarctida pirates mega transfer end)"]
+	p11 [fillcolor=white pos="191.625922,57.266970" style=filled tooltip=p11]
+	p111 [fillcolor=white pos="-195.556032,41.926581" style=filled tooltip="p111(Mummy transition start)"]
+	p126 [fillcolor=white pos="-196.594620,-36.749904" style=filled tooltip=p126]
+	p312 [fillcolor=gray style=filled tooltip=p312]
+	p175 [fillcolor=white pos="-18.453672,-199.146835" style=filled tooltip=p175]
+	p34 [fillcolor=white pos="124.697960,156.366296" style=filled tooltip=p34]
+	p37 [fillcolor=white pos="111.935835,165.741874" style=filled tooltip=p37]
+	p290 [fillcolor=white style=filled tooltip=p290]
+	p77 [fillcolor=white pos="-89.147671,179.032658" style=filled tooltip=p77]
+	p198 [fillcolor=white pos="98.471947,-174.078361" style=filled tooltip=p198]
+	p106 [fillcolor=white pos="-188.336590,67.300288" style=filled tooltip=p106]
+	p52 [fillcolor=white pos="39.341670,196.092409" style=filled tooltip=p52]
+	p213 [fillcolor=green pos="157.998636,-122.623127" style=filled tooltip=p213]
+	p89 [fillcolor=white pos="-140.484904,142.351648" style=filled tooltip=p89]
+	p158 [fillcolor=white pos="-103.032757,-171.418351" style=filled tooltip=p158]
+	p136 [fillcolor=white pos="-180.193774,-86.776748" style=filled tooltip=p136]
+	p57 [fillcolor=white pos="13.190388,199.564560" style=filled tooltip=p57]
+	p265 [fillcolor=green style=filled tooltip="p265(Africa sea bypass)"]
+	p188 [fillcolor=white pos="49.635688,-193.742867" style=filled tooltip=p188]
+	p183 [fillcolor=red pos="23.704095,-198.590322" style=filled tooltip=p183]
+	p123 [fillcolor=white pos="-198.885905,-21.080720" style=filled tooltip=p123]
+	p180 [fillcolor=white pos="7.917912,-199.843205" style=filled tooltip=p180]
+	p59 [fillcolor=white pos="2.639917,199.982576" style=filled tooltip=p59]
+	p160 [fillcolor=yellow pos="-93.842509,-176.617053" style=filled tooltip=p160]
+	p54 [fillcolor=white pos="28.937998,197.895407" style=filled tooltip=p54]
+	p181 [fillcolor=white pos="13.190388,-199.564560" style=filled tooltip=p181]
+	p12 [fillcolor=white pos="190.047480,62.305340" style=filled tooltip=p12]
+	p148 [fillcolor=white pos="-144.193589,-138.593683" style=filled tooltip=p148]
+	p230 [fillcolor=white pos="195.556032,-41.926581" style=filled tooltip=p230]
+	p202 [fillcolor=white pos="116.271897,-162.729364" style=filled tooltip=p202]
+	p1 [fillcolor=white pos="199.930308,5.279374" style=filled tooltip="p1(Eskimo Transition start)"]
+	p154 [fillcolor=white pos="-120.526927,-159.603445" style=filled tooltip=p154]
+	p165 [fillcolor=white pos="-69.780390,-187.431847" style=filled tooltip=p165]
+	p187 [fillcolor=white pos="44.504187,-194.985582" style=filled tooltip=p187]
+	p314 [fillcolor=gray style=filled tooltip=p314]
+	p49 [fillcolor=gray pos="54.732598,192.365129" style=filled tooltip=p49]
+	p167 [fillcolor=white pos="-59.791364,-190.853328" style=filled tooltip=p167]
+	p129 [fillcolor=white pos="-193.070818,-52.188690" style=filled tooltip=p129]
+	p130 [fillcolor=white pos="-191.625922,-57.266970" style=filled tooltip=p130]
+	p228 [fillcolor=red pos="193.070818,-52.188690" style=filled tooltip=p228]
+	p205 [fillcolor=green pos="128.782089,-153.020173" style=filled tooltip=p205]
+	p119 [fillcolor=white pos="-200.000000,0.000000" style=filled tooltip=p119]
+	p286 [fillcolor=white style=filled tooltip=p286]
+	p86 [fillcolor=white pos="-128.782089,153.020173" style=filled tooltip=p86]
+	p55 [fillcolor=yellow pos="23.704095,198.590322" style=filled tooltip="p55(Brasilia)"]
+	p211 [fillcolor=yellow pos="151.306972,-130.790673" style=filled tooltip=p211]
+	p72 [fillcolor=gray pos="-64.808460,189.208519" style=filled tooltip=p72]
+	p112 [fillcolor=yellow pos="-196.594620,36.749904" style=filled tooltip="p112(Kair joint)"]
+	p270 [fillcolor=white style=filled tooltip=p270]
+	p311 [fillcolor=white style=filled tooltip="p311(Antarctida back transfer 1 end)"]
+	p182 [fillcolor=white pos="18.453672,-199.146835" style=filled tooltip="p182(Samurai transition start)"]
+	p144 [fillcolor=white pos="-157.998636,-122.623127" style=filled tooltip="p144(Australia sea bypass)"]
+	p209 [fillcolor=white pos="144.193589,-138.593683" style=filled tooltip=p209]
+	p26 [fillcolor=white pos="154.706713,126.751067" style=filled tooltip=p26]
+	p161 [fillcolor=green pos="-89.147671,-179.032658" style=filled tooltip="p161(Australia joint)"]
+	p325 [fillcolor=gray style=filled tooltip=p325]
+	p152 [fillcolor=white pos="-128.782089,-153.020173" style=filled tooltip=p152]
+	p139 [fillcolor=white pos="-172.763407,-100.761130" style=filled tooltip="p139(Australia bypass transition start)"]
+	p95 [fillcolor=white pos="-161.180447,118.409728" style=filled tooltip="p95(Africa continental path start)"]
+	p257 [fillcolor=white style=filled tooltip=p257]
+	p332 [fillcolor=white style=filled tooltip=p332]
+	p255 [fillcolor=white style=filled tooltip=p255]
+	p166 [fillcolor=white pos="-64.808460,-189.208519" style=filled tooltip=p166]
+	p336 [fillcolor=white style=filled tooltip=p336]
+	p233 [fillcolor=green pos="198.260137,-26.323340" style=filled tooltip=p233]
+	p124 [fillcolor=white pos="-198.260137,-26.323340" style=filled tooltip=p124]
+	p316 [fillcolor=gray style=filled tooltip=p316]
+	p193 [fillcolor=white pos="74.703689,-185.524551" style=filled tooltip="p193(Vladivostok Irkutsk transition start)"]
+	p284 [fillcolor=white style=filled tooltip=p284]
+	p226 [fillcolor=white pos="190.047480,-62.305340" style=filled tooltip=p226]
+	p171 [fillcolor=green pos="-39.341670,-196.092409" style=filled tooltip=p171]
+	p174 [fillcolor=white pos="-23.704095,-198.590322" style=filled tooltip=p174]
+	p31 [fillcolor=white pos="136.678313,146.010407" style=filled tooltip=p31]
+	p66 [fillcolor=white pos="-34.151734,197.062576" style=filled tooltip=p66]
+	p103 [fillcolor=gray pos="-182.421618,81.989958" style=filled tooltip=p103]
+	p4 [fillcolor=white pos="198.885905,21.080720" style=filled tooltip=p4]
+	p297 [fillcolor=white style=filled tooltip="p297(Russia North path)"]
+	p218 [fillcolor=white pos="172.763407,-100.761130" style=filled tooltip=p218]
+	p107 [fillcolor=white pos="-190.047480,62.305340" style=filled tooltip=p107]
+	p331 [fillcolor=gray style=filled tooltip=p331]
+	p15 [fillcolor=white pos="184.522330,77.146028" style=filled tooltip=p15]
+	p288 [fillcolor=white style=filled tooltip="p288(Australia back transfer end)"]
+	p22 [fillcolor=white pos="167.204942,109.738359" style=filled tooltip=p22]
+	p222 [fillcolor=green pos="182.421618,-81.989958" style=filled tooltip=p222]
+	p189 [fillcolor=red pos="54.732598,-192.365129" style=filled tooltip=p189]
+	p45 [fillcolor=white pos="74.703689,185.524551" style=filled tooltip=p45]
+	p60 [fillcolor=yellow pos="-2.639917,199.982576" style=filled tooltip=p60]
+	p113 [fillcolor=yellow pos="-197.496197,31.547615" style=filled tooltip=p113]
+	p268 [fillcolor=white style=filled tooltip="p268(Atlantic speedup transfer end)"]
+	p276 [fillcolor=white style=filled tooltip="p276(Mammoth transfer start)"]
+	p294 [fillcolor=gray style=filled tooltip=p294]
+	p80 [fillcolor=white pos="-103.032757,171.418351" style=filled tooltip="p80(Antarctida continental path start)"]
+	p337 [fillcolor=white style=filled tooltip=p337]
+	p132 [fillcolor=gray pos="-188.336590,-67.300288" style=filled tooltip=p132]
+	p131 [fillcolor=yellow pos="-190.047480,-62.305340" style=filled tooltip=p131]
+	p47 [fillcolor=white pos="64.808460,189.208519" style=filled tooltip=p47]
+	p210 [fillcolor=white pos="147.801783,-134.739129" style=filled tooltip=p210]
+	p317 [fillcolor=gray style=filled tooltip=p317]
+	p199 [fillcolor=gray pos="103.032757,-171.418351" style=filled tooltip=p199]
+	p248 [fillcolor=white style=filled tooltip=p248]
+	p253 [fillcolor=green style=filled tooltip=p253]
+	p135 [fillcolor=white pos="-182.421618,-81.989958" style=filled tooltip=p135]
+	p326 [fillcolor=gray style=filled tooltip=p326]
+	p23 [fillcolor=white pos="164.249928,114.113807" style=filled tooltip=p23]
+	p192 [fillcolor=yellow pos="69.780390,-187.431847" style=filled tooltip=p192]
+	p149 [fillcolor=white pos="-140.484904,-142.351648" style=filled tooltip=p149]
+	p247 [fillcolor=white style=filled tooltip=p247]
+	p102 [fillcolor=white pos="-180.193774,86.776748" style=filled tooltip=p102]
+	p67 [fillcolor=white pos="-39.341670,196.092409" style=filled tooltip=p67]
+	p5 [fillcolor=yellow pos="198.260137,26.323340" style=filled tooltip=p5]
+	p328 [fillcolor=gray style=filled tooltip=p328]
+	p17 [fillcolor=white pos="180.193774,86.776748" style=filled tooltip=p17]
+	p220 [fillcolor=white pos="177.840349,-91.503062" style=filled tooltip=p220]
+	p215 [fillcolor=white pos="164.249928,-114.113807" style=filled tooltip=p215]
+	p138 [fillcolor=yellow pos="-175.362984,-96.165606" style=filled tooltip=p138]
+	p246 [fillcolor=white style=filled tooltip=p246]
+	p153 [fillcolor=white pos="-124.697960,-156.366296" style=filled tooltip=p153]
+	p58 [fillcolor=white pos="7.917912,199.843205" style=filled tooltip=p58]
+	p293 [fillcolor=gray style=filled tooltip=p293]
+	p36 [fillcolor=yellow pos="116.271897,162.729364" style=filled tooltip=p36]
+	p91 [fillcolor=white pos="-147.801783,134.739129" style=filled tooltip=p91]
+	p84 [fillcolor=white pos="-120.526927,159.603445" style=filled tooltip=p84]
+	p90 [fillcolor=white pos="-144.193589,138.593683" style=filled tooltip=p90]
+	p20 [fillcolor=yellow pos="172.763407,100.761130" style=filled tooltip=p20]
+	p269 [fillcolor=white style=filled tooltip=p269]
+	p273 [fillcolor=white style=filled tooltip=p273]
+	p178 [fillcolor=white pos="-2.639917,-199.982576" style=filled tooltip=p178]
+	p73 [fillcolor=white pos="-69.780390,187.431847" style=filled tooltip=p73]
+	p53 [fillcolor=white pos="34.151734,197.062576" style=filled tooltip=p53]
+	p172 [fillcolor=white pos="-34.151734,-197.062576" style=filled tooltip=p172]
+	p191 [fillcolor=white pos="64.808460,-189.208519" style=filled tooltip=p191]
+	p338 [fillcolor=white style=filled tooltip=p338]
+	p75 [fillcolor=white pos="-79.574925,183.487959" style=filled tooltip=p75]
+	p105 [fillcolor=white pos="-186.494446,72.248333" style=filled tooltip=p105]
+	p323 [fillcolor=white style=filled tooltip=p323]
+	p94 [fillcolor=yellow pos="-157.998636,122.623127" style=filled tooltip="p94(Capetown fork)"]
+	p10 [fillcolor=gray pos="193.070818,52.188690" style=filled tooltip=p10]
+	p279 [fillcolor=white style=filled tooltip=p279]
+	p244 [fillcolor=gray style=filled tooltip=p244]
+	p203 [fillcolor=gray pos="120.526927,-159.603445" style=filled tooltip=p203]
+	p291 [fillcolor=white style=filled tooltip="p291(Australia back transfer start)"]
+	p0 [fillcolor=red pos="200.000000,0.000000" style=filled tooltip=p0]
+	p241 [fillcolor=yellow style=filled tooltip=p241]
+	p81 [fillcolor=white pos="-107.521763,168.638876" style=filled tooltip=p81]
+	p282 [fillcolor=white style=filled tooltip=p282]
+	p88 [fillcolor=white pos="-136.678313,146.010407" style=filled tooltip=p88]
+	p6 [fillcolor=white pos="197.496197,31.547615" style=filled tooltip=p6]
+	p16 [fillcolor=white pos="182.421618,81.989958" style=filled tooltip=p16]
+	p342 [fillcolor=white style=filled tooltip=p342]
+		p151 -> p152
+		p304 -> p305
+		p237 -> p0
+		p118 -> p119
+		p260 -> p261
+		p197 -> p198
+		p295 -> p296
+		p134 -> p135
+		p240 -> p241
+		p258 -> p259
+		p298 -> p299
+		p44 -> p45
+		p235 -> p236
+		p65 -> p66
+		p18 -> p19
+		p122 -> p123
+		p164 -> p165
+		p238 -> p239
+		p117 -> p118
+		p162 -> p163
+		p19 -> p20
+		p79 -> p307
+		p79 -> p80
+		p68 -> p69
+		p214 -> p215
+		p250 -> p251
+		p281 -> p282
+		p254 -> p255
+		p231 -> p232
+		p128 -> p129
+		p190 -> p191
+		p125 -> p126
+		p200 -> p201
+		p76 -> p77
+		p14 -> p15
+		p176 -> p177
+		p216 -> p217
+		p227 -> p228
+		p48 -> p49
+		p42 -> p238
+		p42 -> p43
+		p330 -> p331
+		p232 -> p233
+		p283 -> p284
+		p28 -> p29
+		p108 -> p109
+		p335 -> p336
+		p64 -> p65
+		p305 -> p306
+		p27 -> p28
+		p321 -> p322
+		p147 -> p148
+		p120 -> p121
+		p307 -> p308
+		p177 -> p178
+		p2 -> p3
+		p170 -> p171
+		p266 -> p267
+		p99 -> p100
+		p137 -> p138
+		p29 -> p30
+		p324 -> p325
+		p223 -> p224
+		p256 -> p257
+		p322 -> p323
+		p143 -> p287
+		p143 -> p144
+		p3 -> p4
+		p96 -> p97
+		p141 -> p142
+		p142 -> p143
+		p333 -> p334
+		p41 -> p42
+		p145 -> p146
+		p339 -> p340
+		p155 -> p156
+		p206 -> p207
+		p310 -> p311
+		p62 -> p63
+		p8 -> p9
+		p114 -> p115
+		p204 -> p205
+		p287 -> p288
+		p110 -> p111
+		p217 -> p297
+		p217 -> p218
+		p116 -> p117
+		p341 -> p342
+		p306 -> p228
+		p168 -> p169
+		p315 -> p316
+		p50 -> p51
+		p33 -> p34
+		p221 -> p222
+		p212 -> p213
+		p87 -> p88
+		p299 -> p300
+		p32 -> p33
+		p97 -> p98
+		p46 -> p47
+		p25 -> p26
+		p146 -> p147
+		p201 -> p202
+		p319 -> p320
+		p9 -> p10
+		p156 -> p157
+		p243 -> p244
+		p292 -> p293
+		p39 -> p40
+		p236 -> p237
+		p262 -> p263
+		p261 -> p262
+		p207 -> p208
+		p133 -> p134
+		p173 -> p174
+		p157 -> p158
+		p271 -> p272
+		p274 -> p275
+		p24 -> p25
+		p264 -> p55
+		p93 -> p94
+		p35 -> p36
+		p184 -> p185
+		p63 -> p64
+		p98 -> p99
+		p71 -> p72
+		p115 -> p116
+		p277 -> p278
+		p224 -> p225
+		p127 -> p128
+		p74 -> p75
+		p40 -> p41
+		p309 -> p310
+		p82 -> p83
+		p343 -> p159
+		p318 -> p319
+		p275 -> p276
+		p327 -> p328
+		p30 -> p31
+		p245 -> p246
+		p225 -> p226
+		p251 -> p252
+		p195 -> p196
+		p334 -> p335
+		p252 -> p253
+		p38 -> p39
+		p104 -> p105
+		p83 -> p84
+		p194 -> p195
+		p296 -> p161
+		p340 -> p341
+		p208 -> p209
+		p320 -> p321
+		p121 -> p122
+		p219 -> p220
+		p301 -> p302
+		p329 -> p330
+		p61 -> p62
+		p196 -> p197
+		p313 -> p314
+		p242 -> p243
+		p56 -> p57
+		p21 -> p22
+		p150 -> p151
+		p267 -> p268
+		p78 -> p79
+		p289 -> p290
+		p308 -> p309
+		p43 -> p44
+		p85 -> p86
+		p285 -> p286
+		p159 -> p160
+		p272 -> p273
+		p51 -> p52
+		p179 -> p180
+		p70 -> p71
+		p263 -> p264
+		p163 -> p164
+		p300 -> p301
+		p278 -> p279
+		p7 -> p8
+		p100 -> p101
+		p303 -> p304
+		p13 -> p14
+		p259 -> p260
+		p186 -> p187
+		p234 -> p235
+		p229 -> p230
+		p185 -> p186
+		p249 -> p250
+		p280 -> p281
+		p109 -> p110
+		p101 -> p102
+		p140 -> p141
+		p169 -> p170
+		p239 -> p240
+		p69 -> p70
+		p302 -> p303
+		p92 -> p93
+		p11 -> p12
+		p111 -> p112
+		p126 -> p127
+		p312 -> p313
+		p175 -> p176
+		p34 -> p35
+		p37 -> p38
+		p290 -> p291
+		p77 -> p78
+		p198 -> p199
+		p106 -> p107
+		p52 -> p53
+		p213 -> p214
+		p89 -> p90
+		p158 -> p159
+		p136 -> p137
+		p57 -> p58
+		p265 -> p266
+		p188 -> p189
+		p183 -> p184
+		p123 -> p124
+		p180 -> p181
+		p59 -> p60
+		p160 -> p161
+		p54 -> p55
+		p181 -> p182
+		p12 -> p13
+		p148 -> p149
+		p230 -> p231
+		p202 -> p203
+		p1 -> p2
+		p154 -> p155
+		p165 -> p166
+		p187 -> p188
+		p314 -> p315
+		p49 -> p50
+		p167 -> p168
+		p129 -> p130
+		p130 -> p131
+		p228 -> p229
+		p205 -> p206
+		p119 -> p120
+		p286 -> p112
+		p86 -> p87
+		p55 -> p56
+		p211 -> p212
+		p72 -> p73
+		p112 -> p113
+		p270 -> p271
+		p311 -> p312
+		p182 -> p183
+		p144 -> p145
+		p209 -> p210
+		p26 -> p27
+		p161 -> p162
+		p325 -> p326
+		p152 -> p153
+		p139 -> p140
+		p95 -> p96
+		p257 -> p258
+		p332 -> p333
+		p255 -> p256
+		p166 -> p167
+		p336 -> p337
+		p233 -> p234
+		p124 -> p125
+		p316 -> p317
+		p193 -> p194
+		p284 -> p285
+		p226 -> p227
+		p171 -> p172
+		p174 -> p175
+		p31 -> p32
+		p66 -> p67
+		p103 -> p104
+		p4 -> p5
+		p297 -> p298
+		p218 -> p219
+		p107 -> p108
+		p331 -> p332
+		p15 -> p16
+		p288 -> p289
+		p22 -> p23
+		p222 -> p223
+		p189 -> p190
+		p45 -> p46
+		p60 -> p61
+		p113 -> p114
+		p268 -> p269
+		p276 -> p277
+		p294 -> p295
+		p80 -> p81
+		p337 -> p338
+		p132 -> p133
+		p131 -> p132
+		p47 -> p48
+		p210 -> p211
+		p317 -> p318
+		p199 -> p200
+		p248 -> p249
+		p253 -> p254
+		p135 -> p136
+		p326 -> p327
+		p23 -> p24
+		p192 -> p193
+		p149 -> p150
+		p247 -> p248
+		p102 -> p103
+		p67 -> p68
+		p5 -> p6
+		p328 -> p329
+		p17 -> p18
+		p220 -> p221
+		p215 -> p216
+		p138 -> p139
+		p246 -> p247
+		p153 -> p154
+		p58 -> p59
+		p293 -> p294
+		p36 -> p37
+		p91 -> p92
+		p84 -> p85
+		p90 -> p91
+		p20 -> p21
+		p269 -> p270
+		p273 -> p274
+		p178 -> p179
+		p73 -> p74
+		p53 -> p54
+		p172 -> p173
+		p191 -> p192
+		p338 -> p339
+		p75 -> p76
+		p105 -> p106
+		p323 -> p324
+		p94 -> p265
+		p94 -> p95
+		p10 -> p11
+		p279 -> p280
+		p244 -> p245
+		p203 -> p204
+		p291 -> p292
+		p0 -> p1
+		p241 -> p242
+		p81 -> p82
+		p282 -> p283
+		p88 -> p89
+		p6 -> p7
+		p16 -> p17
+		p342 -> p343
+		p260 -> p268 [color=green]
+		p214 -> p297 [color=green]
+		p128 -> p125 [color=red]
+		p48 -> p42 [color=red]
+		p212 -> p217 [color=green]
+		p224 -> p228 [color=green]
+		p343 -> p92 [color=red]
+		p334 -> p321 [color=red]
+		p83 -> p70 [color=red]
+		p320 -> p311 [color=red]
+		p150 -> p157 [color=green]
+		p111 -> p94 [color=red]
+		p1 -> p14 [color=green]
+		p182 -> p137 [color=red]
+		p139 -> p176 [color=green]
+		p193 -> p211 [color=green]
+		p218 -> p223 [color=green]
+		p276 -> p256 [color=red]
+		p291 -> p288 [color=red]
+}
